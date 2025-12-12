@@ -1,6 +1,6 @@
 # Maxence Dubois
 
-## 👋 Présentation
+## Présentation
 
 Je m'appelle Maxence Dubois, j'ai 22 ans et je suis actuellement en 2ᵉ année de DEUST WMI (Webmaster et Métiers de l’Internet) à l’Université du Littoral Côte d’Opale à Calais.
 
